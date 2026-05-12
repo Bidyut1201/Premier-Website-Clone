@@ -3,6 +3,11 @@
 A responsive fashion website clone built using **HTML, CSS, and JavaScript**.  
 This project focuses on replicating a modern fashion brand website layout with clean UI and structured design.
 
+## 🌐 Live Demo
+
+https://bidyut1201.github.io/Premier-Website-Clone/
+
+
 ## 🚀 Features
 
 - Modern multi-section layout
@@ -17,9 +22,7 @@ This project focuses on replicating a modern fashion brand website layout with c
 - CSS3
 - JavaScript (Vanilla JS)
 
-## 🌐 Live Demo
 
-https://bidyut1201.github.io/Premier-Website-Clone/
 
 
 
